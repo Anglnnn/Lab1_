@@ -1,0 +1,14 @@
+﻿  Lab1_.cpp
+C:\Users\Lenovo\Desktop\ОБД\Lab1_\Lab1_.cpp(110,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\ОБД\Lab1_\Lab1_.cpp(127,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\ОБД\Lab1_\Lab1_.cpp(148,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\ОБД\Lab1_\Lab1_.cpp(188,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\ОБД\Lab1_\Lab1_.cpp(199,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\ОБД\Lab1_\Lab1_.cpp(210,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\ОБД\Lab1_\Lab1_.cpp(254,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\ОБД\Lab1_\Lab1_.cpp(325,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\ОБД\Lab1_\Lab1_.cpp(340,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\ОБД\Lab1_\Lab1_.cpp(366,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\ОБД\Lab1_\Lab1_.cpp(396,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\ОБД\Lab1_\Lab1_.cpp(92): warning C4715: Check_Admin_Login: значение возвращается не при всех путях выполнения
+  Lab1_.vcxproj -> C:\Users\Lenovo\Desktop\ОБД\Lab1_\Debug\Lab1_.exe
